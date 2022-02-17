@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ashish",
+            "email": "reduxsaga@gmail.com",
+            "phone": 9211773639,
+            "address": "India"
+        }
+    ]
+}
